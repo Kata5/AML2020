@@ -1,6 +1,7 @@
 Project plan 1.) 
 
 Behavioural segmentation + motion detection + effect of motion on data from Allen Brain Institude data: https://allensdk.readthedocs.io/en/latest/
+Maybe it I have time: finding active cells: with classic term frequency (TF)–inverse document frequency (IDF) search algorithm
 
 State of the art papers: 
 -Amelia J. Christensen, Jonathan W. Pillow, Running reduces firing but improves coding in rodent higherorder visual cortex
