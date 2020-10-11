@@ -13,5 +13,7 @@ State of the art papers:
 -Wang, L., Rangarajan, K. V., Gerfen, C. R. & Krauzlis, R. J. Activation of striatal neurons causes a perceptual decision bias during visual change
 detection in mice. Neuron 97, 1369–1381.e5 (2018).
 
+-George Karabatsos (2018) Marginal maximum likelihood estimation methods for the tuning parameters of ridge, power ridge, and generalized ridge regression, Communications in Statistics - Simulation and Computation, 47:6, 1632-1651, DOI: 10.1080/03610918.2017.1321119 
+
 Time: the entire semester
 
